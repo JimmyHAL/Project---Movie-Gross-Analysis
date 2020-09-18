@@ -12,12 +12,17 @@ README.md - Descriptions of contents of the repository
 
 
 ##Project Goal
+
 The goal of this project is to analyze the given data for a new movie production company and give reccomendations.
 
 ##Project Process
 
 Explore the Data
+
 Clean the Data
+
 Find patterns
+
 Interpret the Data
+
 
