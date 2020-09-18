@@ -1,9 +1,13 @@
 ##Movie Gross Analysis
 
 1. Repository Files
+
 zippedData - Data used for the project
+
 Htoo Aung Latt Section 1 Final Project.ipynb - Module 1 jupyter notebook
+
 presentation.pdf - High-level presentation of methodology and recommendations for non-technical stakeholders
+
 README.md - Descriptions of contents of the repository
 
 
