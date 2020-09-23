@@ -1,28 +1,29 @@
-##Movie Gross Analysis
+## Movie Gross Analysis
 
-1. Repository Files
+#### Repository Files
 
-zippedData - Data used for the project
+- zippedData - Data used for the project
 
-Htoo Aung Latt Section 1 Final Project.ipynb - Module 1 jupyter notebook
+- Htoo Aung Latt Section 1 Final Project.ipynb - Module 1 jupyter notebook
 
-presentation.pdf - High-level presentation of methodology and recommendations for non-technical stakeholders
+- presentation.pdf - High-level presentation of methodology and recommendations for non-technical stakeholders
 
-README.md - Descriptions of contents of the repository
+- README.md - Descriptions of contents of the repository
 
 
-##Project Goal
+## Project Goal
 
 The goal of this project is to analyze the given data for a new movie production company and give reccomendations.
 
-##Project Process
+#### Project Process
 
-Explore the Data
+1. Explore the Data
 
-Clean the Data
+2. Clean the Data
 
-Find patterns
+3. Find patterns
 
-Interpret the Data
+4. Interpret the Data
 
+![actorgross](images/actorsgross.png)
 
